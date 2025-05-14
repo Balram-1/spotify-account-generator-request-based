@@ -49,7 +49,7 @@ ascii_art = """
 ░░▒░ ░ ░ ░ ░ ░  ░  ░     ▒ ░░  ░      ░  ▒   ▒▒ ░   ░     ░ ░  ░
  ░░░ ░ ░   ░ ░   ░       ▒ ░░      ░     ░   ▒    ░         ░
    ░         ░  ░        ░         ░         ░  ░           ░  ░
-      Made by balramog
+      Made by balramog (this is free version , for paid https://ultimatetools.mysellauth.com/ )
 """
 
 # Neon pink to neon blue
