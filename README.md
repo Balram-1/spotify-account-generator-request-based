@@ -75,3 +75,5 @@ This project is provided as-is for educational and research purposes. Please use
 
 📬 Contact
 For suggestions, bug reports, or feature requests, please open an issue or contact via the Sellauth link above or @balramog/@balrampreet1 on discord
+![image](https://github.com/user-attachments/assets/28fa0c9d-1c0a-4f92-991f-7099cc76f164)
+
